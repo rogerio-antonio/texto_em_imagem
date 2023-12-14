@@ -1,6 +1,3 @@
-# Ignorar a pasta do ambiente virtual
-texto_em_imagem/
-
 # Ignorar todas as imagens no diretório
 *.png
 *.jpg
